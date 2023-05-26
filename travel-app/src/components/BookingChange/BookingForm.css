@@ -1,0 +1,53 @@
+.booking-row {
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.booking-row td {
+  padding: 10px;
+}
+
+.booking-row-actions {
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content:flex-start;
+}
+
+.booking-row-link,
+.booking-row-button {
+  font-size: 16px;
+  color: #333;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.booking-row-link:hover,
+.booking-row-button:hover {
+  color: #dc3545;
+}
+
+.booking-row-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.booking-row-id {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.booking-row-destination {
+  font-size: 14px;
+  color: #777;
+}
+
+.booking-row-user,
+.booking-row-people,
+.booking-row-date 
+{
+  text-align: center;
+}

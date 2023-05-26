@@ -1,0 +1,40 @@
+article {
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text div {
+    margin-bottom: 5px;
+  }
+  
+  .btn-outline-info {
+    margin-right: 10px;
+  }
+  
+  .btn-outline-danger {
+    margin-left: 10px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+  
+  .alert p {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .alert button {
+    margin-left: 5px;
+  }
+  
